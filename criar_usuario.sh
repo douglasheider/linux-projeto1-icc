@@ -1,5 +1,10 @@
 #!/bin/bash
 
+####################################################################################################################
+#DIO                                                                                                               #
+#CURSO FUNDAMENTOS DE LINUX                                                                                        #
+#DOUGLAS OLIVEIRA                                                                                                  #
+####################################################################################################################
 echo "Criando os diretórios na raiz!"
 #CRIANDO DIRETORIOS NA RAIZ
 mkdir /publico /adm /ven /sec
